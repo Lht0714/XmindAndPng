@@ -1,0 +1,15 @@
+Level Editor：运行测试   保存关卡数据
+Level：选择要编辑的关卡
+Limit：限制条件   目前只有步数限制
+Color Limit：颜色限制  关卡有多少种颜色的小方块
+Falling Item Weight ：应该是每个颜色下落的重力
+Star：共三颗星级 分别达到的条件分数
+
+TiledMap
+地图设置 编辑地图板块
+
+Blocks 
+每块的固定的小块块
+Target 完成的目标  [x,y]  x是目标物品 y是目标数量 可以添加清除
+
+Select Reply File 选择要加载的关卡文件 保存以后会有文件生成
